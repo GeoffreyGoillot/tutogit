@@ -42,3 +42,11 @@ Pour cela, vous pouvez faire un rebase avec `master` pour déplacer votre branch
 ```
 
 Après quelques minutes vous pouvez alors ouvrir votre navigateur à l'URL qui s'affiche dans votre console.
+
+## Etape 6
+
+Retournez dans master et merger `feature/heroku` dans `master`.
+
+## Etape 7 
+
+Basculer sur `feature/dino` pour intégrer le travail de Dominique.
